@@ -29,13 +29,14 @@ header {
 #logo {
     width: 140px;
     float: left;
-    margin: 10px 0 0 50px;
+    margin: 10px 0 10px 30px;
 }
 #logo:hover {
     opacity: 0.5;
 }
 #logo img {
-    width: 100%;
+    /* width: 100px; */
+    height: 45px;
 }
 header nav {
     float: right;
@@ -66,7 +67,8 @@ header nav ul li:hover {
     margin: 200px auto 0 auto;
     font-size: 110px;
     /* Eigenes */
-    color: #fff;
+    /*color: #fff */;
+    color: rgb(89, 105, 118);
 }
 #home h2 {
     margin: 0 auto 0 auto;
