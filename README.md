@@ -1,2 +1,2 @@
 # MyWebsite
-Meine eigene Single-Page-Website zu finden unter www.moriskotsch.de
+Single-Page-Website for www.moriskotsch.de
